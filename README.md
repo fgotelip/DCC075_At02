@@ -22,3 +22,5 @@ This project was created using `bun init` in bun v1.4.2. [Bun](https://bun.com) 
 ## Usuário Estudante
 ![alt text](google-oauth-express/loginEstudante.png)
 ![alt text](google-oauth-express/telaUsuarioEstudante.png)
+## Usuário Professor
+Necessário testar com email @ufjf.br
