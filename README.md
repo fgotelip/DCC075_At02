@@ -17,8 +17,8 @@ This project was created using `bun init` in bun v1.4.2. [Bun](https://bun.com) 
 
 # Capturas de Tela Resultados
 ## Usuário Comum
-![alt text](loginComum.png)
-![alt text](telaUsuarioComum.png)
+![alt text](google-oauth-express/loginComum.png)
+![alt text](google-oauth-express/telaUsuarioComum.png)
 ## Usuário Estudante
-![alt text](loginEstudante.png)
-![alt text](telaUsuarioEstudante.png)
+![alt text](google-oauth-express/loginEstudante.png)
+![alt text](google-oauth-express/telaUsuarioEstudante.png)
